@@ -11,11 +11,11 @@ As a first-generation student and a woman in STEM, I have always approached chal
 
 # Education
 
-University of Houston, Expected Graduation: Spring 2026
-* Bachelor of Science in Computer Science, Minoring in Mathematics
+* University of Houston, Expected Graduation: Spring 2026
+  * Bachelor of Science in Computer Science, Minoring in Mathematics
 
-Colorado School of Mines, Fall 2022 (Transferred)
-* Bachelor of Science in Computer Science
+* Colorado School of Mines, Fall 2022 (Transferred)
+  * Bachelor of Science in Computer Science
 
 # Work Experience
 
@@ -34,7 +34,6 @@ Colorado School of Mines, Fall 2022 (Transferred)
 
 # Skills
 
-* Languages: Python, C++, SQL, JavaScri[t, HTML/CSS
+* Languages: Python, C++, SQL, JavaScript, HTML/CSS
 * Frameworks/Libraries: React, Express, Node
 * Tools/Technologies: Git, VSCode, AWS
-  
