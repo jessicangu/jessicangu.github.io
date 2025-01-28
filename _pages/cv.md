@@ -11,54 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+University of Houston, Expected Graduation: Spring 2026
+* Bachelor of Science in Computer Science, Minoring in Mathematics
+
+Colorado School of Mines, Fall 2022 (Transferred)
+* Bachelor of Science in Computer Science
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* December 2024: Code Sensei at Code Ninjas
+  * Facilitated weekly coding lessons to approximately 30 students ages 6 to 14, fostering creativity and technical expertise through video game projects built with Microsoft MakeCode
+  * Empowered students to devise problem-solving skills, logical thinking, and a passion for technology through engaging, practical projects tailored to enhance comprehension and application of programming
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2022 to December 2024: Front of House at The Alley
+  * Led daily operations, managing teams to ensure seamless service for a 1000+ customer base
+  * Utilized point-of-sale (POS) systems to track daily sales, inventory, and customer trends, recommending improvements for the reporting process to make data more accessible for future planning
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2022 to December 2022: Lab Assistant at the Colorado School of Mines Chemistry Department
+  * Prepared high-grade chemicals and meticulously set up apparatus, stations, and waste disposal areas to ensure safety
+  * Led preparation and safe setup of high-grade chemical solutions and apparatus for 10+ weekly lab sessions
+  * Coordinated with lab instructors and lab assistants to optimize the efficiency and effectiveness of lab procedures
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Languages: Python, C++, SQL, JavaScri[t, HTML/CSS
+* Frameworks/Libraries: React, Express, Node
+* Tools/Technologies: Git, VSCode, AWS
